@@ -1,18 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-       
-        long long revnum = 0;
-        int dup = x;
-        while(x>0)
-        {
-            int lastdigit = x % 10;
-            revnum = (revnum * 10) + lastdigit;
-            x/=10;
+        if (x < 0) return false;  // negatives are not palindrome
+
+        long long rev = 0, num = x;
+        while(num) {
+            rev = rev * 10 + num % 10;  // build reversed number
+            num /= 10;
         }
-        if(dup==revnum) cout<<"true";
-        else cout<<"false";
-        return dup==revnum;
-        
+        return rev == x;  // check if equal
     }
 };
