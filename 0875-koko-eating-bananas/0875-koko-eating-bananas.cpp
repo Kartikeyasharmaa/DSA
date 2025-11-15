@@ -6,7 +6,7 @@ public:
 
         while (l <= r) {
             int mid = (l + r) / 2;
-            int hours = 0;
+            double hours = 0;
             for (int p : piles)
                 hours += (p + mid - 1) / mid;
 
