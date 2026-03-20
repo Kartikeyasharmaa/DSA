@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kartikeyasharmaa/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikeyasharmaa/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartikeyasharmaa/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikeyasharmaa/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
