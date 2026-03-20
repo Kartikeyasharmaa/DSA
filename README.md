@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kartikeyasharmaa/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Kartikeyasharmaa/DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/Kartikeyasharmaa/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartikeyasharmaa/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Kartikeyasharmaa/DSA/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Kartikeyasharmaa/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kartikeyasharmaa/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikeyasharmaa/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Kartikeyasharmaa/DSA/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
