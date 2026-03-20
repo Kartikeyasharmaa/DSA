@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Kartikeyasharmaa/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikeyasharmaa/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/Kartikeyasharmaa/DSA/tree/main/0027-remove-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Kartikeyasharmaa/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0018-4sum/) | Medium |
+| [0027-remove-element](https://github.com/Kartikeyasharmaa/DSA/tree/main/0027-remove-element/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
