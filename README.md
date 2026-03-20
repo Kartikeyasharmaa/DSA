@@ -56,8 +56,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikeyasharmaa/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Kartikeyasharmaa/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Kartikeyasharmaa/DSA/tree/main/0012-integer-to-roman/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kartikeyasharmaa/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
