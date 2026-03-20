@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kartikeyasharmaa/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Kartikeyasharmaa/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0015-3sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,8 +22,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kartikeyasharmaa/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0015-3sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kartikeyasharmaa/DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Kartikeyasharmaa/DSA/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
